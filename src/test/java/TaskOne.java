@@ -3,7 +3,7 @@ import org.junit.Test;
 public class TaskOne {
 
     @Test
-    public void testSber(){ а
+    public void testSber(){ аав
 
 
 
